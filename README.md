@@ -1,2 +1,3 @@
 # Olympian-Info-Index-2.0
 Final Project CMSC 140
+This final project is a small data base of simple, digestible info on the Olympians in Greek myth. In order to complete this project I searched github and discovered a prewritten dictionary of the greek pantheon that was missing information. I transferred this info into VS code where I filled in some of the missing information. I then added another dictionary with keys that held the info listed in the original dictionary which I would call to using inputs that were put through a function that would return the info needed. I then added some code that would prompt the user with some text to type in the wanted information.
